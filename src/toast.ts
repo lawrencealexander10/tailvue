@@ -9,7 +9,7 @@ const outerClasses = [
 ]
 
 const innerClasses = [
-  'w-full', 'flex', 'flex-col-reverse',
+  'w-full', 'flex', 'flex-col',
   'items-center', 'sm:items-end', 'sm:justify-end',
 ]
 
